@@ -1,4 +1,4 @@
-This game is built for an offline single player experience, there are mechanisms built into this application that will share any of your interactions to a private server.
+This game is built for an offline single player experience, there are no mechanisms built into this application that will share any of your interactions to a private server.
 
 In the foreseeable future, your highschool will be shared with Apple's game center services, but that is as far as your app activity will go.
 
